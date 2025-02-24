@@ -1,0 +1,15 @@
+beautifulsoup4
+celery
+click
+Django
+django-celery-results
+django-timezone-field
+djangorestframework
+drf-yasg
+Pillow
+python-crontab
+python-dateutil
+redis
+requests
+django-celery-beat
+django-jazzmin
